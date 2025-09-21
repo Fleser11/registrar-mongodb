@@ -1,0 +1,1 @@
+mongoimport --type csv -d registrar -c courses --headerline --file /data/courseCatalog.csv
